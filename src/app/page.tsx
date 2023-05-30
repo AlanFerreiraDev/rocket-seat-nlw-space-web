@@ -58,7 +58,7 @@ export default function Home() {
             className="hover:text-gray-100"
             href="http://rocketseat.com.br"
           >
-            Rocketseat teste
+            Rocketseat
           </a>
         </div>
       </div>
